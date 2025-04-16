@@ -16,7 +16,7 @@ window.addEventListener('resize', () => {
     }
 });
 
-// Generate Starry Background
+// Generate Starry Background ok
 function generateStars() {
     const starCount = 200; // Adjust star count as needed
     const starContainer = document.createElement('div');
